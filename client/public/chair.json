@@ -1,0 +1,543 @@
+[
+    {
+      "name": "Comfort Rocking Chair",
+      "original_price": 300,
+      "discount_price": 250,
+      "off_percentage": 17,
+      "furniture_details": "A sleek and stylish rocking chair with cushioned seating.",
+      "rating": 4.5,
+      "image": "https://images-cdn.ubuy.qa/6691840690941161ff33a91b-avawing-upholstered-rocking-chair-with.jpg",
+      "category": "rocking"
+    },
+    {
+      "name": "Classic Lounge Chair",
+      "original_price": 450,
+      "discount_price": 380,
+      "off_percentage": 16,
+      "furniture_details": "Comfortable lounge chair with ergonomic design for maximum relaxation.",
+      "rating": 4.8,
+      "image": "https://www.aram.co.uk/media/catalog/product/cache/ee5323a34f18baea35e86f3073fb4c3e/e/a/eames-lounge-set-cherry-classicdims-1-blackleather-1200.jpg",
+      "category": "lounge"
+    },
+    {
+      "name": "Wooden Side Chair",
+      "original_price": 120,
+      "discount_price": 90,
+      "off_percentage": 25,
+      "furniture_details": "Solid wooden side chair, perfect for minimalist decor.",
+      "rating": 4.3,
+      "image": "https://dutchcraftfurniture.com/cdn/shop/files/EagleSideChairwithwroughtiron-RusticHickory-Gunsmoke.jpg?v=1712606123&width=1500",
+      "category": "side"
+    },
+    {
+      "name": "Modern Rocking Chair",
+      "original_price": 280,
+      "discount_price": 230,
+      "off_percentage": 18,
+      "furniture_details": "A modern take on the classic rocking chair, featuring metal frame.",
+      "rating": 4.6,
+      "image": "https://www.isho.com/storage/media/e9WVDUQtOS768KOtTTqyIiHOJGy94eR4odFxyHLK.jpeg",
+      "category": "rocking"
+    },
+    {
+      "name": "Leather Lounge Chair",
+      "original_price": 500,
+      "discount_price": 420,
+      "off_percentage": 16,
+      "furniture_details": "Luxurious leather lounge chair with a soft cushion for comfort.",
+      "rating": 4.9,
+      "image": "https://cozymatic.com.hk/cdn/shop/products/70_1800x1800.png?v=1684899335",
+      "category": "lounge"
+    },
+    {
+      "name": "Minimalist Side Chair",
+      "original_price": 130,
+      "discount_price": 110,
+      "off_percentage": 15,
+      "furniture_details": "A minimalist side chair with wooden frame and fabric seating.",
+      "rating": 4.2,
+      "image": "https://assets.wfcdn.com/im/21608503/resize-h800-w800%5Ecompr-r85/2422/242280547/Kody+Vegan+Leather+Side+Chair.jpg",
+      "category": "side"
+    },
+    {
+      "name": "Scandinavian Lounge Chair",
+      "original_price": 470,
+      "discount_price": 400,
+      "off_percentage": 15,
+      "furniture_details": "Inspired by Scandinavian design, perfect for a contemporary living room.",
+      "rating": 4.7,
+      "image": "https://img.archiexpo.com/images_ae/photo-g/88402-12822198.webp",
+      "category": "lounge"
+    },
+    {
+      "name": "Elegant Rocking Chair",
+      "original_price": 320,
+      "discount_price": 270,
+      "off_percentage": 16,
+      "furniture_details": "Elegant wooden rocking chair with plush cushions.",
+      "rating": 4.4,
+      "image": "https://assets.maker-marketplace.com/medium_5195aad735649eb_rocking_chair_full.jpg",
+      "category": "rocking"
+    },
+    {
+      "name": "Stylish Side Chair",
+      "original_price": 100,
+      "discount_price": 85,
+      "off_percentage": 15,
+      "furniture_details": "A stylish side chair perfect for dining or office spaces.",
+      "rating": 4.1,
+      "image": "https://www.kathykuohome.com/Content/config/product/primary/zoom/product_46538.jpg",
+      "category": "side"
+    },
+    {
+      "name": "Luxury Lounge Chair",
+      "original_price": 520,
+      "discount_price": 450,
+      "off_percentage": 13,
+      "furniture_details": "Luxury lounge chair with premium leather finish and soft padding.",
+      "rating": 4.8,
+      "image": "https://scalaluxury.com/images/product_original_images/16d47f9dd0e8b773aed3f85846aa6402.jpg",
+      "category": "lounge"
+    },
+    {
+      "name": "Wooden Rocking Chair",
+      "original_price": 340,
+      "discount_price": 290,
+      "off_percentage": 15,
+      "furniture_details": "Classic wooden rocking chair perfect for reading or relaxing.",
+      "rating": 4.6,
+      "image": "https://www.navanafurniture.com/wp-content/uploads/2020/10/WEB-800.png",
+      "category": "rocking"
+    },
+    {
+      "name": "Modern Side Chair",
+      "original_price": 140,
+      "discount_price": 120,
+      "off_percentage": 14,
+      "furniture_details": "Modern side chair with a sleek metal frame and soft fabric.",
+      "rating": 4.2,
+      "image": "https://www.navanafurniture.com/wp-content/uploads/2020/08/WEB-Lobby-Chair-FCL-9001A-min.jpg",
+      "category": "side"
+    },
+    {
+      "name": "Fabric Lounge Chair",
+      "original_price": 460,
+      "discount_price": 400,
+      "off_percentage": 13,
+      "furniture_details": "Fabric lounge chair with a high back and deep seating for comfort.",
+      "rating": 4.5,
+      "image": "https://images-cdn.ubuy.com.sa/641c7853f63bb263130f8b39-acozyhom-modern-large-fabric-lazy-chair.jpg",
+      "category": "lounge"
+    },
+    {
+      "name": "Elegant Side Chair",
+      "original_price": 130,
+      "discount_price": 105,
+      "off_percentage": 19,
+      "furniture_details": "Elegant side chair with wooden legs and cushioned seat.",
+      "rating": 4.3,
+      "image": "https://m.media-amazon.com/images/I/6192nFFyh9L._AC_SL1200_.jpg",
+      "category": "side"
+    },
+    {
+      "name": "Contemporary Lounge Chair",
+      "original_price": 480,
+      "discount_price": 410,
+      "off_percentage": 15,
+      "furniture_details": "Contemporary lounge chair with sleek lines and high-end materials.",
+      "rating": 4.7,
+      "image": "https://m.media-amazon.com/images/I/3171ADM4JAL._AC_US750_.jpg",
+      "category": "lounge"
+    },
+    {
+      "name": "Rustic Rocking Chair",
+      "original_price": 310,
+      "discount_price": 265,
+      "off_percentage": 14,
+      "furniture_details": "Rustic rocking chair with a charming country look.",
+      "rating": 4.6,
+      "image": "https://fourcornerfurniture.com/wp/wp-content/uploads/2018/08/Rustic-Rocking-Adirondack-Chair-2.jpg",
+      "category": "rocking"
+    },
+    {
+      "name": "Cushioned Side Chair",
+      "original_price": 110,
+      "discount_price": 95,
+      "off_percentage": 14,
+      "furniture_details": "Cushioned side chair with a comfortable seat and backrest.",
+      "rating": 4.1,
+      "image": "https://m.media-amazon.com/images/I/61sG54Og52S._AC_SL1024_.jpg",
+      "category": "side"
+    },
+    {
+      "name": "Soft Lounge Chair",
+      "original_price": 480,
+      "discount_price": 420,
+      "off_percentage": 12,
+      "furniture_details": "Soft lounge chair with fabric upholstery for ultimate relaxation.",
+      "rating": 4.5,
+      "image": "https://m.media-amazon.com/images/I/716tq9Y8WOL._AC_SX679_.jpg",
+      "category": "lounge"
+    },
+    {
+      "name": "Vintage Rocking Chair",
+      "original_price": 350,
+      "discount_price": 295,
+      "off_percentage": 16,
+      "furniture_details": "Vintage-inspired rocking chair with wooden frame and soft cushion.",
+      "rating": 4.6,
+      "image": "https://m.media-amazon.com/images/I/71ctgh-u3UL._AC_SX679_.jpg",
+      "category": "rocking"
+    },
+    {
+      "name": "Upholstered Side Chair",
+      "original_price": 120,
+      "discount_price": 100,
+      "off_percentage": 17,
+      "furniture_details": "Upholstered side chair with soft fabric and modern design.",
+      "rating": 4.2,
+      "image": "https://m.media-amazon.com/images/I/71ctgh-u3UL._AC_SX679_.jpg",
+      "category": "side"
+    },
+    {
+      "name": "Curved Lounge Chair",
+      "original_price": 510,
+      "discount_price": 450,
+      "off_percentage": 12,
+      "furniture_details": "Curved lounge chair with elegant lines and comfortable seating.",
+      "rating": 4.8,
+      "image": "https://m.media-amazon.com/images/I/71WXpUyeuxL._AC_SX679_.jpg",
+      "category": "lounge"
+    },
+    {
+      "name": "Relaxing Rocking Chair",
+      "original_price": 320,
+      "discount_price": 275,
+      "off_percentage": 14,
+      "furniture_details": "Relaxing rocking chair with a wide seat and padded armrests.",
+      "rating": 4.5,
+      "image": "https://m.media-amazon.com/images/I/71yxAKCrQrL._AC_SY879_.jpg",
+      "category": "rocking"
+    },
+    {
+      "name": "Casual Side Chair",
+      "original_price": 140,
+      "discount_price": 120,
+      "off_percentage": 14,
+      "furniture_details": "Casual side chair with simple design and easy-to-clean materials.",
+      "rating": 4.1,
+      "image": "https://m.media-amazon.com/images/I/71veazHpZOL._AC_SX569_.jpg",
+      "category": "side"
+    },
+    {
+      "name": "Elegant Lounge Chair",
+      "original_price": 470,
+      "discount_price": 420,
+      "off_percentage": 11,
+      "furniture_details": "Elegant lounge chair with soft fabric and elegant design.",
+      "rating": 4.7,
+      "image": "https://m.media-amazon.com/images/I/71veazHpZOL._AC_SX569_.jpg",
+      "category": "lounge"
+    },
+    {
+      "name": "Classic Rocking Chair",
+      "original_price": 360,
+      "discount_price": 300,
+      "off_percentage": 17,
+      "furniture_details": "Classic rocking chair with a traditional wooden frame.",
+      "rating": 4.6,
+      "image": "https://m.media-amazon.com/images/I/41rN733jekL._AC_.jpg",
+      "category": "rocking"
+    },
+    {
+      "name": "Soft Side Chair",
+      "original_price": 130,
+      "discount_price": 105,
+      "off_percentage": 19,
+      "furniture_details": "Soft side chair with cushioned seat and backrest for comfort.",
+      "rating": 4.3,
+      "image": "https://m.media-amazon.com/images/I/81aXcQbib8L._AC_SL1500_.jpg",
+      "category": "side"
+    },
+    {
+      "name": "Modern Lounge Chair",
+      "original_price": 490,
+      "discount_price": 430,
+      "off_percentage": 12,
+      "furniture_details": "Modern lounge chair with a sleek frame and comfortable upholstery.",
+      "rating": 4.8,
+      "image": "https://m.media-amazon.com/images/I/81ub6VoPV0L._AC_SL1500_.jpg",
+      "category": "lounge"
+    },
+    {
+      "name": "Comfort Rocking Chair",
+      "original_price": 300,
+      "discount_price": 250,
+      "off_percentage": 17,
+      "furniture_details": "A sleek and stylish rocking chair with cushioned seating.",
+      "rating": 4.5,
+      "image": "https://images-cdn.ubuy.qa/6691840690941161ff33a91b-avawing-upholstered-rocking-chair-with.jpg",
+      "category": "rocking"
+    },
+    {
+      "name": "Classic Lounge Chair",
+      "original_price": 450,
+      "discount_price": 380,
+      "off_percentage": 16,
+      "furniture_details": "Comfortable lounge chair with ergonomic design for maximum relaxation.",
+      "rating": 4.8,
+      "image": "https://www.aram.co.uk/media/catalog/product/cache/ee5323a34f18baea35e86f3073fb4c3e/e/a/eames-lounge-set-cherry-classicdims-1-blackleather-1200.jpg",
+      "category": "lounge"
+    },
+    {
+      "name": "Wooden Side Chair",
+      "original_price": 120,
+      "discount_price": 90,
+      "off_percentage": 25,
+      "furniture_details": "Solid wooden side chair, perfect for minimalist decor.",
+      "rating": 4.3,
+      "image": "https://dutchcraftfurniture.com/cdn/shop/files/EagleSideChairwithwroughtiron-RusticHickory-Gunsmoke.jpg?v=1712606123&width=1500",
+      "category": "side"
+    },
+    {
+      "name": "Modern Rocking Chair",
+      "original_price": 280,
+      "discount_price": 230,
+      "off_percentage": 18,
+      "furniture_details": "A modern take on the classic rocking chair, featuring metal frame.",
+      "rating": 4.6,
+      "image": "https://www.isho.com/storage/media/e9WVDUQtOS768KOtTTqyIiHOJGy94eR4odFxyHLK.jpeg",
+      "category": "rocking"
+    },
+    {
+      "name": "Leather Lounge Chair",
+      "original_price": 500,
+      "discount_price": 420,
+      "off_percentage": 16,
+      "furniture_details": "Luxurious leather lounge chair with a soft cushion for comfort.",
+      "rating": 4.9,
+      "image": "https://cozymatic.com.hk/cdn/shop/products/70_1800x1800.png?v=1684899335",
+      "category": "lounge"
+    },
+    {
+      "name": "Minimalist Side Chair",
+      "original_price": 130,
+      "discount_price": 110,
+      "off_percentage": 15,
+      "furniture_details": "A minimalist side chair with wooden frame and fabric seating.",
+      "rating": 4.2,
+      "image": "https://assets.wfcdn.com/im/21608503/resize-h800-w800%5Ecompr-r85/2422/242280547/Kody+Vegan+Leather+Side+Chair.jpg",
+      "category": "side"
+    },
+    {
+      "name": "Scandinavian Lounge Chair",
+      "original_price": 470,
+      "discount_price": 400,
+      "off_percentage": 15,
+      "furniture_details": "Inspired by Scandinavian design, perfect for a contemporary living room.",
+      "rating": 4.7,
+      "image": "https://img.archiexpo.com/images_ae/photo-g/88402-12822198.webp",
+      "category": "lounge"
+    },
+    {
+      "name": "Elegant Rocking Chair",
+      "original_price": 320,
+      "discount_price": 270,
+      "off_percentage": 16,
+      "furniture_details": "Elegant wooden rocking chair with plush cushions.",
+      "rating": 4.4,
+      "image": "https://assets.maker-marketplace.com/medium_5195aad735649eb_rocking_chair_full.jpg",
+      "category": "rocking"
+    },
+    {
+      "name": "Stylish Side Chair",
+      "original_price": 100,
+      "discount_price": 85,
+      "off_percentage": 15,
+      "furniture_details": "A stylish side chair perfect for dining or office spaces.",
+      "rating": 4.1,
+      "image": "https://www.kathykuohome.com/Content/config/product/primary/zoom/product_46538.jpg",
+      "category": "side"
+    },
+    {
+      "name": "Luxury Lounge Chair",
+      "original_price": 520,
+      "discount_price": 450,
+      "off_percentage": 13,
+      "furniture_details": "Luxury lounge chair with premium leather finish and soft padding.",
+      "rating": 4.8,
+      "image": "https://scalaluxury.com/images/product_original_images/16d47f9dd0e8b773aed3f85846aa6402.jpg",
+      "category": "lounge"
+    },
+    {
+      "name": "Wooden Rocking Chair",
+      "original_price": 340,
+      "discount_price": 290,
+      "off_percentage": 15,
+      "furniture_details": "Classic wooden rocking chair perfect for reading or relaxing.",
+      "rating": 4.6,
+      "image": "https://www.navanafurniture.com/wp-content/uploads/2020/10/WEB-800.png",
+      "category": "rocking"
+    },
+    {
+      "name": "Modern Side Chair",
+      "original_price": 140,
+      "discount_price": 120,
+      "off_percentage": 14,
+      "furniture_details": "Modern side chair with a sleek metal frame and soft fabric.",
+      "rating": 4.2,
+      "image": "https://www.navanafurniture.com/wp-content/uploads/2020/08/WEB-Lobby-Chair-FCL-9001A-min.jpg",
+      "category": "side"
+    },
+    {
+      "name": "Fabric Lounge Chair",
+      "original_price": 460,
+      "discount_price": 400,
+      "off_percentage": 13,
+      "furniture_details": "Fabric lounge chair with a high back and deep seating for comfort.",
+      "rating": 4.5,
+      "image": "https://images-cdn.ubuy.com.sa/641c7853f63bb263130f8b39-acozyhom-modern-large-fabric-lazy-chair.jpg",
+      "category": "lounge"
+    },
+    {
+      "name": "Elegant Side Chair",
+      "original_price": 130,
+      "discount_price": 105,
+      "off_percentage": 19,
+      "furniture_details": "Elegant side chair with wooden legs and cushioned seat.",
+      "rating": 4.3,
+      "image": "https://m.media-amazon.com/images/I/6192nFFyh9L._AC_SL1200_.jpg",
+      "category": "side"
+    },
+    {
+      "name": "Contemporary Lounge Chair",
+      "original_price": 480,
+      "discount_price": 410,
+      "off_percentage": 15,
+      "furniture_details": "Contemporary lounge chair with sleek lines and high-end materials.",
+      "rating": 4.7,
+      "image": "https://m.media-amazon.com/images/I/3171ADM4JAL._AC_US750_.jpg",
+      "category": "lounge"
+    },
+    {
+      "name": "Rustic Rocking Chair",
+      "original_price": 310,
+      "discount_price": 265,
+      "off_percentage": 14,
+      "furniture_details": "Rustic rocking chair with a charming country look.",
+      "rating": 4.6,
+      "image": "https://fourcornerfurniture.com/wp/wp-content/uploads/2018/08/Rustic-Rocking-Adirondack-Chair-2.jpg",
+      "category": "rocking"
+    },
+    {
+      "name": "Cushioned Side Chair",
+      "original_price": 110,
+      "discount_price": 95,
+      "off_percentage": 14,
+      "furniture_details": "Cushioned side chair with a comfortable seat and backrest.",
+      "rating": 4.1,
+      "image": "https://m.media-amazon.com/images/I/61sG54Og52S._AC_SL1024_.jpg",
+      "category": "side"
+    },
+    {
+      "name": "Soft Lounge Chair",
+      "original_price": 480,
+      "discount_price": 420,
+      "off_percentage": 12,
+      "furniture_details": "Soft lounge chair with fabric upholstery for ultimate relaxation.",
+      "rating": 4.5,
+      "image": "https://m.media-amazon.com/images/I/716tq9Y8WOL._AC_SX679_.jpg",
+      "category": "lounge"
+    },
+    {
+      "name": "Vintage Rocking Chair",
+      "original_price": 350,
+      "discount_price": 295,
+      "off_percentage": 16,
+      "furniture_details": "Vintage-inspired rocking chair with wooden frame and soft cushion.",
+      "rating": 4.6,
+      "image": "https://m.media-amazon.com/images/I/71ctgh-u3UL._AC_SX679_.jpg",
+      "category": "rocking"
+    },
+    {
+      "name": "Upholstered Side Chair",
+      "original_price": 120,
+      "discount_price": 100,
+      "off_percentage": 17,
+      "furniture_details": "Upholstered side chair with soft fabric and modern design.",
+      "rating": 4.2,
+      "image": "https://m.media-amazon.com/images/I/71ctgh-u3UL._AC_SX679_.jpg",
+      "category": "side"
+    },
+    {
+      "name": "Curved Lounge Chair",
+      "original_price": 510,
+      "discount_price": 450,
+      "off_percentage": 12,
+      "furniture_details": "Curved lounge chair with elegant lines and comfortable seating.",
+      "rating": 4.8,
+      "image": "https://m.media-amazon.com/images/I/71WXpUyeuxL._AC_SX679_.jpg",
+      "category": "lounge"
+    },
+    {
+      "name": "Relaxing Rocking Chair",
+      "original_price": 320,
+      "discount_price": 275,
+      "off_percentage": 14,
+      "furniture_details": "Relaxing rocking chair with a wide seat and padded armrests.",
+      "rating": 4.5,
+      "image": "https://m.media-amazon.com/images/I/71yxAKCrQrL._AC_SY879_.jpg",
+      "category": "rocking"
+    },
+    {
+      "name": "Casual Side Chair",
+      "original_price": 140,
+      "discount_price": 120,
+      "off_percentage": 14,
+      "furniture_details": "Casual side chair with simple design and easy-to-clean materials.",
+      "rating": 4.1,
+      "image": "https://m.media-amazon.com/images/I/71veazHpZOL._AC_SX569_.jpg",
+      "category": "side"
+    },
+    {
+      "name": "Elegant Lounge Chair",
+      "original_price": 470,
+      "discount_price": 420,
+      "off_percentage": 11,
+      "furniture_details": "Elegant lounge chair with soft fabric and elegant design.",
+      "rating": 4.7,
+      "image": "https://m.media-amazon.com/images/I/71veazHpZOL._AC_SX569_.jpg",
+      "category": "lounge"
+    },
+    {
+      "name": "Classic Rocking Chair",
+      "original_price": 360,
+      "discount_price": 300,
+      "off_percentage": 17,
+      "furniture_details": "Classic rocking chair with a traditional wooden frame.",
+      "rating": 4.6,
+      "image": "https://m.media-amazon.com/images/I/41rN733jekL._AC_.jpg",
+      "category": "rocking"
+    },
+    {
+      "name": "Soft Side Chair",
+      "original_price": 130,
+      "discount_price": 105,
+      "off_percentage": 19,
+      "furniture_details": "Soft side chair with cushioned seat and backrest for comfort.",
+      "rating": 4.3,
+      "image": "https://m.media-amazon.com/images/I/81aXcQbib8L._AC_SL1500_.jpg",
+      "category": "side"
+    },
+    {
+      "name": "Modern Lounge Chair",
+      "original_price": 490,
+      "discount_price": 430,
+      "off_percentage": 12,
+      "furniture_details": "Modern lounge chair with a sleek frame and comfortable upholstery.",
+      "rating": 4.8,
+      "image": "https://m.media-amazon.com/images/I/81ub6VoPV0L._AC_SL1500_.jpg",
+      "category": "lounge"
+    }
+  ]
+  
