@@ -7,13 +7,13 @@ const Footer = () => {
         <div className="bg-[#000000e2] text-[#81859F] lg:mt-32 mt-8">
             <footer className="p-10">
                 <div className="flex flex-col md:flex-row justify-between space-y-6 md:space-y-0">
-                    {/* Logo and Company Name */}
+          
                     <div className="flex items-center space-x-2">
                         <img className='w-[38px] h-[38px] rounded-full' src={logo} alt="FurniFlex Logo" />
                         <p className='font-bold text-xl'>Furni<span className='text-[#1E99F5]'>Flex</span></p>
                     </div>
 
-                    {/* First Column - About US */}
+        
                     <div>
                         <h6 className="footer-title mb-4 font-semibold">About US</h6>
                         <nav className="flex flex-col space-y-2">
@@ -26,7 +26,7 @@ const Footer = () => {
                         </nav>
                     </div>
 
-                    {/* Second Column - Explore EEVE */}
+             
                     <div>
                         <h6 className="footer-title mb-4 font-semibold">Explore EEVE</h6>
                         <nav className="flex flex-col space-y-2">
@@ -37,7 +37,7 @@ const Footer = () => {
                         </nav>
                     </div>
 
-                    {/* Third Column - Community & Support */}
+        
                     <div>
                         <h6 className="footer-title mb-4 font-semibold">Community & Support</h6>
                         <nav className="flex flex-col space-y-2">
@@ -49,7 +49,7 @@ const Footer = () => {
                 </div>
             </footer>
 
-            {/* Bottom Footer */}
+       
             <footer className="border-t border-gray-700 py-4 px-10 flex flex-col md:flex-row justify-between items-center">
                 {/* Social Media Icons */}
                 <div className="flex space-x-4">
@@ -58,13 +58,13 @@ const Footer = () => {
                     <a href="#"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" className="fill-current"><path d="M9 8h-3v4h3v12h5v-12h3.642l.358-4h-4v-1.667c0-.955.192-1.333 1.115-1.333h2.885v-5h-3.808c-3.596 0-5.192 1.583-5.192 4.615v3.385z"></path></svg></a>
                 </div>
 
-                {/* Company Info */}
+       
                 <div className="text-center md:text-left mt-4 md:mt-0">
                     <p>EEVE © 2024. All rights reserved.</p>
                     <p>March22 Recap | Privacy Policy | General Terms | Contact</p>
                 </div>
 
-                {/* Language/Region Selector */}
+             
                 <div className="mt-4 md:mt-0">
                     <p>United States (English)</p>
                 </div>

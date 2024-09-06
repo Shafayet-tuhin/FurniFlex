@@ -39,7 +39,7 @@ const Checkout = () => {
                       <div className="mask mask-squircle h-12 w-12">
                         <img
                           src={image}
-                          alt={`Product ${index + 1}`} // Dynamic alt text
+                          alt={`Product ${index + 1}`} 
                         />
                       </div>
                     </div>
@@ -50,12 +50,12 @@ const Checkout = () => {
                 {purchase.products.map((product, index) => (
                   <div key={index}>
                     {product}
-                    {index < purchase.products.length - 1 && <br />} {/* Add line break if there are multiple products */}
+                    {index < purchase.products.length - 1 && <br />} 
                   </div>
                 ))}
               </td>
               <td>
-                {new Date(purchase.Date).toLocaleDateString()} {/* Corrected field name */}
+                {new Date(purchase.Date).toLocaleDateString()} 
               </td>
               <td>${purchase.price}</td>
             </tr>

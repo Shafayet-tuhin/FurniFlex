@@ -24,7 +24,7 @@ const Registration = () => {
             .then((res) => {
                 const user = res.user;
 
-                // Update display name with first and last name
+              
                 updateProfile(user, {
                     displayName: `${firstName} ${lastName}`,
                 })

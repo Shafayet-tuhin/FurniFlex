@@ -16,11 +16,11 @@ const Home = () => {
         autoPlay={true} 
         infiniteLoop={true} 
         interval={2500} 
-        showThumbs={true} // Hide thumbnail previews
-        showStatus={true} // Hide status indicator
-        width="85%" // Adjust width if necessary
+        showThumbs={true} 
+        showStatus={true} 
+        width="85%" 
         dynamicHeight={true} 
-        style={{ maxHeight: '300px', overflow: 'hidden' }} // Set max height for the carousel
+        style={{ maxHeight: '300px', overflow: 'hidden' }} 
       >
           <div>
           <img src={two} alt="Slide 2" />

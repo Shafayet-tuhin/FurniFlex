@@ -6,16 +6,16 @@ import { useNavigate } from 'react-router-dom';
 const Products = () => {
     const [drop, setDrop] = useState(false);
     const [searchTerm, setSearchTerm] = useState('');
-    const [selectedCategory, setSelectedCategory] = useState(''); // New state for category filter
+    const [selectedCategory, setSelectedCategory] = useState(''); 
     const navigate = useNavigate();
     const { products } = useContext(AuthContext);
     const [currentPage, setCurrentPage] = useState(1);
     const itemsPerPage = 14;
 
-    // Function to handle category selection
+
     const handleCategoryChange = (category) => {
         setSelectedCategory(category);
-        setCurrentPage(1); // Reset to the first page when category changes
+        setCurrentPage(1); 
     };
 
     const handleClick = (pageNumber) => {
